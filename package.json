@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "name": "gerenciador_de_filmes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "taynahsaito",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "aula10"
+  },
+  "description": ""
+}
